@@ -50,6 +50,7 @@
 
 <img width="1366" height="189" alt="image" src="https://github.com/user-attachments/assets/e36dbdbc-8307-4567-bd61-6d6518e04d8e" />
 
+<img width="1366" height="53" alt="image" src="https://github.com/user-attachments/assets/8f8a2d6b-f943-4a81-b710-8228355be414" />
 
 
 ## 10. Open the app
